@@ -1,0 +1,14 @@
+
+@import '../homepage/heroCard.scss';
+
+.card-wrapper-outer{
+    margin-top:40px;
+    padding: 20px 8% 11% !important;
+    .view-all-btn{
+        width:100%;
+        margin-top:16%;
+        font-weight: 700;
+        text-transform: uppercase;
+        font-size: 14px;
+    }
+}

@@ -1,0 +1,25 @@
+
+
+.testimonial-card{
+    text-align: center;
+    padding:20px 10px;
+    box-shadow: 1px 2px 2px #b8b9be,-2px -2px 5px #ffffff !important ;
+    border:solid 1px #b8b9be;
+    border-radius:5px;
+    margin:5px 10px;
+    .name{
+        color:#000;
+        font-weight: 600;
+        padding:10px;
+    }
+    .content{
+        color:#000;
+        font-weight: 400;
+    }
+    .testimonial-cover-img{
+        width: 50px;
+        margin:0px auto;
+        border-radius: 50%;
+        padding:15px;
+    }
+}
